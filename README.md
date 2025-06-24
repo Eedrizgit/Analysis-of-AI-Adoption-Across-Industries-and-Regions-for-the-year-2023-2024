@@ -19,7 +19,7 @@ Year, Country, Industry, Age Group, Company Size, AI Tool, Adoption Rate (%), Nu
 The dataset captures a range of features that reflect the evolving landscape of AI adoption across industries, geographies, and age demographics. It reflects the integration of AI tools across multiple domains including healthcare, manufacturing, agriculture, finance, education, and more — each with varying levels of maturity, workforce digital literacy, and automation needs.
 # In-Analysis observations and insights
 
-The total number of daily users is 730,698,889.
+1. The total number of daily users is 730,698,889.
 AI tools are experiencing massive global usage, indicating mainstream adoption and reliance across sectors. This scale highlights the critical role of AI in daily operations and decision-making for both individuals and organizations.
 
 2. The 55+ age group recorded the highest average adoption rate at 20.07%, while the 25–34 age group had the lowest at 19.93%, although the difference is minimal.
@@ -108,7 +108,9 @@ iii) Highlight cost-benefit scenarios for each business size segment.
 Each age group showed different strengths in adoption and usage behavior.
 
 i)   For older users (55+), offer simpler, high-trust tools focused on accuracy and time-saving.
+
 ii)  For mid-career professionals (35–44), emphasize task automation and decision support.
+
 iii) For younger users (18–24), focus on creativity, skill development, and integration with learning platforms.
 
 8). Tailor Strategies by Country Usage Trends
@@ -116,6 +118,7 @@ iii) For younger users (18–24), focus on creativity, skill development, and in
 Countries like France, Australia, and China lead in daily users, while Brazil, Canada, and the USA are lower.
 
 i)   Invest in local AI awareness campaigns and regionalized feature development.
+
 ii)  Use top-performing countries as benchmarks to improve performance in lower-engaged regions through localization or partnership.
 
 9). Educate and Promote AI Use in Lagging Industries
@@ -123,7 +126,9 @@ ii)  Use top-performing countries as benchmarks to improve performance in lower-
 Retail, transportation, and education industries had relatively lower adoption.
 
 i)   Launch free trials, workshops, and industry-specific AI success webinars.
+
 ii)  Work with sector leaders and government agencies to embed AI education into training schemes.
+
 iii) Focus marketing efforts on solving specific problems in each sector (e.g., scheduling in education, routing in transportation).
 
 10). Monitor Trends and Create Strategic Reporting Systems
