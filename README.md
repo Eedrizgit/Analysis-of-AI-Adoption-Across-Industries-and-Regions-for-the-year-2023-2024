@@ -1,6 +1,6 @@
 # Analysis-of-AI-Adoption-Across-Industries-and-Regions-for-the-year-2023-2024
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Eedrizgit/Analysis-of-AI-Adoption-Across-Industries-and-Regions-for-the-year-2023-2024/blob/main/Task%2034%20B%20DASHBOARD.png)
 
 # **(Comprehesive Evaluation of AI Adoption 2023–2024)**
 
@@ -143,5 +143,5 @@ iii) Use predictive analytics to forecast where support is most needed.
 
 
 # Technical Report
-[**click for the comprehensive report**](https://medium.com/@akinteyeidris/analysis-of-ai-adoption-across-industries-and-regions-for-the-year-2023-2024-9e84eecc8834))  
+[**click for the comprehensive report**](https://medium.com/@akinteyeidris/analysis-of-ai-adoption-across-industries-and-regions-for-the-year-2023-2024-9e84eecc8834)  
 #####
