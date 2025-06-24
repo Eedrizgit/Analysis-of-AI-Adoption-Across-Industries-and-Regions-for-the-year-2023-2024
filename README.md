@@ -19,26 +19,26 @@ Year, Country, Industry, Age Group, Company Size, AI Tool, Adoption Rate (%), Nu
 The dataset captures a range of features that reflect the evolving landscape of AI adoption across industries, geographies, and age demographics. It reflects the integration of AI tools across multiple domains including healthcare, manufacturing, agriculture, finance, education, and more — each with varying levels of maturity, workforce digital literacy, and automation needs.
 # In-Analysis observations and insights
 
-1. The total number of daily users is 730,698,889.
+1). The total number of daily users is 730,698,889.
 AI tools are experiencing massive global usage, indicating mainstream adoption and reliance across sectors. This scale highlights the critical role of AI in daily operations and decision-making for both individuals and organizations.
 
-2. The 55+ age group recorded the highest average adoption rate at 20.07%, while the 25–34 age group had the lowest at 19.93%, although the difference is minimal.
+2). The 55+ age group recorded the highest average adoption rate at 20.07%, while the 25–34 age group had the lowest at 19.93%, although the difference is minimal.
 
 Contrary to popular belief, older professionals (55+) are slightly more likely to adopt AI tools than younger groups like 25–34. This may reflect a shift in older generations embracing AI for efficiency, or their roles in senior management influencing adoption decisions.
 
-3. The overall adoption rate declined from 50.02% in 2023 to 49.81% in 2024.
+3). The overall adoption rate declined from 50.02% in 2023 to 49.81% in 2024.
 
 The slight dip in adoption rate may signal early signs of AI fatigue, tool saturation, or concerns about AI integration (e.g., data privacy, ROI). It could also reflect the need for next-level innovation or supportive policy frameworks to sustain momentum.
 
-4. The preference for AI tools was not influenced by company size, as usage patterns remained consistent. However, the number of tools used varied across company sizes.
+4). The preference for AI tools was not influenced by company size, as usage patterns remained consistent. However, the number of tools used varied across company sizes.
 
 Regardless of whether a company is small, medium, or large, they tend to prefer the same types of AI tools. This suggests a universal demand for specific functionalities (e.g., automation, chatbots, data analytics) and emphasizes that tool quality and relevance outweigh organizational scale.
 
-5. The technology industry ranked first in terms of average daily users (5,049.48), while the transportation industry recorded the lowest (5,018.64).
+5). The technology industry ranked first in terms of average daily users (5,049.48), while the transportation industry recorded the lowest (5,018.64).
 
 Unsurprisingly, the tech sector leads in AI tool engagement, reflecting high digital maturity, strong infrastructure, and proactive innovation. The low user engagement in transportation may reveal untapped opportunities for AI deployment in logistics, fleet management, or predictive maintenance.
 
-6. The agricultural industry had the highest average adoption rate (50.33%), whereas the manufacturing industry had the lowest (49.58%).
+6). The agricultural industry had the highest average adoption rate (50.33%), whereas the manufacturing industry had the lowest (49.58%).
 
 The agricultural sector is rapidly embracing AI, possibly in precision farming, weather forecasting, and crop health monitoring, surpassing traditionally tech-driven industries like manufacturing, which lags at 49.58%. This shift shows that “non-digital” sectors are catching up fast in digital transformation.
 
